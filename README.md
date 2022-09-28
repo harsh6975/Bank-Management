@@ -1,6 +1,5 @@
 # Bank Management System
 
-<img src = "/assets/img/logo.jpg">
 
 Bank Management System is a C++ console application with basic banking functionality using OOPs concepts.
 
@@ -24,7 +23,7 @@ Bank Management System is a C++ console application with basic banking functiona
   <img src = "/image/withdraw amount.png">
 
 - Balance Enquiry :
-  <img src = "/image/Balance detail.png>
+  <img src = "/image/Balance detail.png">
 
 - All Account Holder List :
   <img src = "/image/all account.png">
